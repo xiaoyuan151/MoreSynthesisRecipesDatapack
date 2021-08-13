@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "ABA",
+        "AAA"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:orange_dye"
+        },
+        "A": {
+            "item": "minecraft:coal"
+        },
+        "B": {
+            "item": "minecraft:water_bucket"
+        }
+    },
+    "result": {
+        "item": "minecraft:lava_bucket",
+        "count": 1
+    }
+}

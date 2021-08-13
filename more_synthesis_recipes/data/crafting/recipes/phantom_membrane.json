@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#A#",
+        "#B#",
+        "#A#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:white_dye"
+        },
+        "A": {
+            "item": "minecraft:string"
+        },
+        "B": {
+            "item": "minecraft:feather"
+        }
+    },
+    "result": {
+        "item": "minecraft:phantom_membrane",
+        "count": 1
+    }
+}

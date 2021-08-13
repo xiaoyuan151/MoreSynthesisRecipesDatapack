@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "   ",
+        " A ",
+        " B "
+    ],
+    "key": {
+        "A": {
+            "item": "minecraft:wither_skeleton_skull"
+        },
+        "B": {
+            "item": "minecraft:dragon_breath"
+        }
+    },
+    "result": {
+        "item": "minecraft:dragon_head",
+        "count": 1
+    }
+}
