@@ -1,0 +1,1 @@
+effect give @a minecraft:luck 12 1 true

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "ABA",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:lime_dye"
+        },
+        "A": {
+            "item": "minecraft:egg"
+        },
+        "B": {
+            "item": "minecraft:snowball"
+        }
+    },
+    "result": {
+        "item": "minecraft:slime_ball",
+        "count": 1
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#A#",
+        "BBB"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:chorus_fruit"
+        },
+        "A": {
+            "item": "minecraft:ender_eye"
+        },
+        "B": {
+            "item": "minecraft:chorus_flower"
+        }
+    },
+    "result": {
+        "item": "minecraft:shulker_shell",
+        "count": 1
+    }
+}

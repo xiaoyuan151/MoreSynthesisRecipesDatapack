@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [{
+            "item": "minecraft:magenta_dye"
+        },
+        {
+            "item": "minecraft:glass_bottle"
+        },
+        {
+            "item": "minecraft:snowball"
+        }
+    ],
+    "result": {
+        "item": "minecraft:dragon_breath",
+        "count": 1
+    }
+}
