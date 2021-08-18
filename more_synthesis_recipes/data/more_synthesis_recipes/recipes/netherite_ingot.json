@@ -2,7 +2,7 @@
     "type": "minecraft:crafting_shaped",
     "pattern": [
         "###",
-        "#A#",
+        "ABA",
         "###"
     ],
     "key": {
@@ -10,6 +10,9 @@
             "tag": "minecraft:coals"
         },
         "A": {
+            "item": "minecraft:diamond"
+        },
+        "B": {
             "item": "minecraft:iron_ingot"
         }
     },
